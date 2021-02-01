@@ -8,3 +8,5 @@ Well, and here is some normal text. Lorem ipsum and such.
 * list item 2
 * list item 3
 
+![](lavo2.png)
+
