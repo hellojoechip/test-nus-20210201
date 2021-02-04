@@ -10,3 +10,5 @@ Well, and here is some normal text. Lorem ipsum and such.
 
 ![](lavo2.png)
 
+I want this update to be live on the website!
+
